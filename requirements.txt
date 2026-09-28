@@ -1,1 +1,0 @@
-# 本算子无 Python 第三方依赖；运行环境需安装 FFmpeg（包含 FFprobe）。
